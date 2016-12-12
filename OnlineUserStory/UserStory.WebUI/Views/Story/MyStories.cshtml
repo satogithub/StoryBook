@@ -1,0 +1,37 @@
+﻿@using UserStory.WebUI.HtmlHelpers
+@model UserStory.WebUI.Models.StoriesCardsViewModel
+
+@{
+    ViewBag.Title = "My Stories";
+}
+
+<h2>My Stories</h2>
+
+@foreach (var s in Model.Stories)
+{
+    @*@Html.Hidden("StoryID", @s.StoryID.ToString())*@
+    <div class="col-md-6">
+        <div class="panel panel-default">
+            <div class="panel-heading">@s.StoryTitle</div>
+            <div class="panel-body">
+                @s.StoryDescription
+            </div>
+            <div class="panel-footer">
+                @*<a class="btn btn-default" href="#" role="button">Show Details >></a>*@
+                <a href="@Url.Action("CreateStory", new { s.StoryID })" class="btn btn-default">Show Details >></a>
+                @*@Html.ActionLink("Show Details >>", "CreateStory", new { s.StoryID})*@
+                <a class="btn btn-default" href="#" role="button">Edit Story >></a>
+            </div>
+        </div>
+    </div>
+}
+
+
+<div class="footer navbar-fixed-bottom">
+    <div class="panel-body">
+        <a href="@Url.Action("CreateStory")" class="font-bold">Create a new story >>>>></a>
+        <div class="btn-group pull-right">
+            @Html.PageLinks(Model.PagingInfo, x => Url.Action("MyStories", new { page = x }))
+        </div>
+    </div>
+</div>

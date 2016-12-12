@@ -1,0 +1,16 @@
+C:\Users\milo\Source\Repos\UserStories\OnlineUserStory\UserStory.UnitTests\bin\Debug\UserStory.UnitTests.dll.config
+C:\Users\milo\Source\Repos\UserStories\OnlineUserStory\UserStory.UnitTests\bin\Debug\UserStory.UnitTests.dll
+C:\Users\milo\Source\Repos\UserStories\OnlineUserStory\UserStory.UnitTests\bin\Debug\UserStory.UnitTests.pdb
+C:\Users\milo\Source\Repos\UserStories\OnlineUserStory\UserStory.UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\milo\Source\Repos\UserStories\OnlineUserStory\UserStory.UnitTests\bin\Debug\Moq.dll
+C:\Users\milo\Source\Repos\UserStories\OnlineUserStory\UserStory.UnitTests\bin\Debug\Ninject.dll
+C:\Users\milo\Source\Repos\UserStories\OnlineUserStory\UserStory.UnitTests\bin\Debug\Ninject.Web.Common.dll
+C:\Users\milo\Source\Repos\UserStories\OnlineUserStory\UserStory.UnitTests\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\milo\Source\Repos\UserStories\OnlineUserStory\UserStory.UnitTests\bin\Debug\WebActivatorEx.dll
+C:\Users\milo\Source\Repos\UserStories\OnlineUserStory\UserStory.UnitTests\bin\Debug\Moq.xml
+C:\Users\milo\Source\Repos\UserStories\OnlineUserStory\UserStory.UnitTests\bin\Debug\Ninject.xml
+C:\Users\milo\Source\Repos\UserStories\OnlineUserStory\UserStory.UnitTests\bin\Debug\Ninject.Web.Common.xml
+C:\Users\milo\Source\Repos\UserStories\OnlineUserStory\UserStory.UnitTests\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\milo\Source\Repos\UserStories\OnlineUserStory\UserStory.UnitTests\obj\Debug\UserStory.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\milo\Source\Repos\UserStories\OnlineUserStory\UserStory.UnitTests\obj\Debug\UserStory.UnitTests.dll
+C:\Users\milo\Source\Repos\UserStories\OnlineUserStory\UserStory.UnitTests\obj\Debug\UserStory.UnitTests.pdb
